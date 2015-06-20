@@ -32,9 +32,12 @@
     "yargs": "^3.8.0"
   },
   "devDependencies": {
+    "catch-stdout": "0.0.1",
+    "concat-stream": "^1.5.0",
     "mocha": "^2.2.4",
     "multiline": "^1.0.2",
     "rimraf": "^2.3.2",
+    "subs": "^1.0.2",
     "x-ray-phantom": "^1.0.0"
   }
 }
